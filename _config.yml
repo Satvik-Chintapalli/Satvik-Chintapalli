@@ -1,9 +1,11 @@
-title: Your Name
+title: Satvik
 description: My personal blog
 theme: minima
 
+timezone: Asia/Kolkata
+
 author:
-  name: Your Name
+  name: Satvik
 
 header_pages:
   - about.md
