@@ -1,0 +1,9 @@
+title: Your Name
+description: My personal blog
+theme: minima
+
+author:
+  name: Your Name
+
+header_pages:
+  - about.md
